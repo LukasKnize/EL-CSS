@@ -1,0 +1,246 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.EL-headerStyle-1 {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 2px 5px #000000ab;
+    .EL-logoStyle-1 {
+        height: 60px;
+        margin-left: 25px;
+    }
+    .EL-navStyle-1 {
+        margin-left: 25px;
+        width: auto;
+        display: flex;
+        .EL-linkStyle-1{
+            padding: 0 25px;
+            text-decoration: none;
+            font-size: 1.3em;
+            &:hover{
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+.EL-headerStyle-2 {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: 0px 2px 5px #000000ab;
+    .EL-logoStyle-1 {
+        height: 60px;
+        margin-left: 25px;
+    }
+    .EL-navStyle-1 {
+        margin-left: 25px;
+        width: auto;
+        display: flex;
+        .EL-linkStyle-1{
+            padding: 0 15px;
+            text-decoration: none;
+            font-size: 1.3em;
+            &:hover{
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+.EL-headerStyle-3 {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 2px 5px #000000ab;
+    .EL-logoStyle-1 {
+        height: 60px;
+        margin-left: 25px;
+    }
+    .EL-navStyle-1 {
+        margin-left: 25px;
+        width: auto;
+        display: flex;
+        .EL-linkStyle-1{
+            padding: 0 15px;
+            text-decoration: none;
+            font-size: 1.3em;
+            &:hover{
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+.EL-headerStyle-1{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 2px 5px #000000ab;
+    .EL-navStyle-2{
+        width: auto;
+        display: flex;
+        align-items: center;
+        .EL-logoStyle-1 {
+            height: 60px;
+            margin-left: 20px;
+        }
+        .EL-linkStyle-1{
+            padding: 0 15px;
+            text-decoration: none;
+            font-size: 1.3em;
+            &:hover{
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+.EL-formStyle-1{
+    display: flex;
+    margin: 0 25px;
+}
+
+.EL-inputStyle-1{
+    height: 40px;
+    border-radius: 20px;
+    padding: 0 10px;
+    margin: 0 10px;
+}
+
+.EL-buttonStyle-1{
+    height: 40px;
+    border-radius: 20px;
+    padding: 0 25px;
+}
+
+.EL-mainStyle-1{
+    width: 100%;
+    height: auto;
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.EL-cardStyle-1{
+    height: auto;
+    border-radius: 3px;
+    box-shadow: 1px 1px 2px black;
+}
+
+.EL-Bor-Red-3{
+    border: 2px solid #A4243B;
+}
+
+.EL-BG-Red-3 {
+    background-color: #A4243B;
+}
+
+.EL-BG-Green-3 {
+    background-color: #36827f;
+}
+
+.EL-BG-Yellow-3 {
+    background-color: #f9db6d;
+}
+
+.EL-Col-Yellow-3 {
+    color: #f9db6d;
+}
+
+.EL-TopMargin-25{
+    margin-top: 25px;
+}
+
+.EL-TopMargin-50{
+    margin-top: 50px;
+}
+
+.EL-BottomMargin-25{
+    margin-top: 25px;
+}
+
+.EL-BottomMargin-50{
+    margin-top: 50px;
+}
+
+.EL-LeftMargin-25{
+    margin-left: 25px;
+}
+
+.EL-LeftMargin-50{
+    margin-left: 50px;
+}
+
+.EL-RightMargin-25{
+    margin-right: 25px;
+}
+
+.EL-RightMargin-25{
+    margin-right: 50px;
+}
+
+.EL-height-100{
+    height: 100px;
+}
+
+.EL-height-150{
+    height: 150px;
+}
+
+.EL-height-200{
+    height: 200px;
+}
+
+.EL-height-300{
+    height: 300px;
+}
+
+.EL-width-300{
+    width: 300px;
+}
+
+.EL-width-350{
+    width: 350px;
+}
+
+.EL-width-400{
+    width: 400px;
+}
+
+.EL-width-450{
+    width: 450px;
+}
+
+.EL-width-500{
+    width: 500px;
+}
+
+.EL-width-550{
+    width: 550px;
+}
+
+.EL-width-600{
+    width: 600px;
+}
+
+.EL-width-650{
+    width: 650px;
+}
+
+.EL-width-auto{
+    width: auto;
+}
+
+//https://coolors.co/464d77-36827f-f9db6d-a4243b-d72638-111d13-fceff9
