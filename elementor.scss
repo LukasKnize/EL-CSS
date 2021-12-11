@@ -139,26 +139,7 @@
     box-shadow: 1px 1px 2px black;
 }
 
-.EL-Bor-Red-3{
-    border: 2px solid #A4243B;
-}
-
-.EL-BG-Red-3 {
-    background-color: #A4243B;
-}
-
-.EL-BG-Green-3 {
-    background-color: #36827f;
-}
-
-.EL-BG-Yellow-3 {
-    background-color: #f9db6d;
-}
-
-.EL-Col-Yellow-3 {
-    color: #f9db6d;
-}
-
+//Margins
 .EL-TopMargin-25{
     margin-top: 25px;
 }
@@ -203,8 +184,40 @@
     height: 200px;
 }
 
+.EL-height-250{
+    height: 250px;
+}
+
 .EL-height-300{
     height: 300px;
+}
+
+.EL-height-350{
+    height: 350px;
+}
+
+.EL-height-400{
+    height: 400px;
+}
+
+.EL-height-450{
+    height: 450px;
+}
+
+.EL-height-500{
+    height: 500px;
+}
+
+.EL-height-550{
+    height: 550px;
+}
+
+.EL-height-600{
+    height: 200px;
+}
+
+.EL-height-650{
+    height: 650px;
 }
 
 .EL-width-300{
@@ -244,3 +257,5 @@
 }
 
 //https://coolors.co/464d77-36827f-f9db6d-a4243b-d72638-111d13-fceff9
+
+@import "SCSS/colors";
